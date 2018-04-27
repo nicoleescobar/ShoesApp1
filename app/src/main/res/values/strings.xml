@@ -6,4 +6,37 @@
     <string name="cantidad">Cantidad</string>
     <string name="limpiar">Limpiar</string>
     <string name="calcular">Calcular</string>
+
+    <string name="nike" translatable="false">Nike</string>
+    <string name="adidas" translatable="false">Adidas</string>
+    <string name="puma" translatable="false">Puma</string>
+
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+
+    <string name="clasico">Clasicos</string>
+    <string name="zapatillas">Zapatillas</string>
+
+    <string name="totalLabel">Total a pagar</string>
+    <string name="cantidadError">Por favor agregue una cantidad valida</string>
+
+
+    <string-array name="marcas">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+
+    <string-array name="tipos">
+        <item>@string/clasico</item>
+        <item>@string/zapatillas</item>
+    </string-array>
+
+    <string-array name="sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+
+
+
 </resources>
