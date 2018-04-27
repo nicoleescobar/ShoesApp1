@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoesApp</string>
+    <string name="genero">Genero</string>
+    <string name="tipo">Tipo de Zapato</string>
+    <string name="marca">Marca</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="calcular">Calcular</string>
+</resources>
