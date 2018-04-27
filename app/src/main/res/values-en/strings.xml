@@ -11,4 +11,6 @@
     <string name="mujer">Woman</string>
     <string name="clasico">Classics</string>
     <string name="zapatillas">Sneackers</string>
+    <string name="cantidadError">Please add a valid quantity.</string>
+    <string name="totalLabel">Total to pay</string>
 </resources>
