@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         total.setText(" ");
+        cantidad.setError(null);
         int cant = TextUtils.isEmpty(cantidad.getText())  ? 1 : Integer.parseInt(cantidad.getText().toString());
         precio = 0;
 
@@ -80,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
     public void clear(View v) {
         total.setText("");
         cantidad.setText("");
+        cantidad.setError(null);
         cantidad.requestFocus();
         marcas.setSelection(0);
         generos.setSelection(0);
